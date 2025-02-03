@@ -259,7 +259,7 @@
 }
 
 .changelog-list {
-    border: 1px solid #44403C;
+    background: #44403C;
 }
 
 .changelog-list ul,
@@ -269,5 +269,5 @@
 }
 
 .changelog-list ul {
-    margin-left: 1rem;
+    margin-left: 0.5rem !important;
 }
