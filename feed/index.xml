@@ -5,8 +5,41 @@
 <link>https://changelog.robertdevore.com/</link>
 <description>Latest posts from changelog.robertdevore.com</description>
 <atom:link href="https://changelog.robertdevore.com/feed/index.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Mon, 03 Feb 2025 08:24:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Feb 2025 15:07:33 GMT</lastBuildDate>
 <language>en-us</language>
+
+<item>
+<title>Bluesky Feed for WordPress® v1.1.0 - changelog.robertdevore.com</title>
+<link>https://changelog.robertdevore.com/blog/site-vitals-for-wordpress-1-1-1/</link>
+<description>
+🐛 BUG: Fixed GLOB_BRACE usage causing fatal errors on some systems - 👌 IMPROVE: Updated plugins page to include a link to the settings page - [👌 IMPROVE: Updated...
+
+</description>
+<guid isPermaLink="false">612f85250efea806fb75fa470eb745ae</guid>
+<pubDate>Mon, 03 Feb 2025 10:07:33 +0000</pubDate>
+</item>
+
+<item>
+<title>Bluesky Feed for WordPress® v1.1.0 - changelog.robertdevore.com</title>
+<link>https://changelog.robertdevore.com/blog/bluesky-feed-for-wordpress-1-1-0/</link>
+<description>
+📦 NEW: Added French translation - 📦 NEW: Added plugin usage restrictions for websites hosted on wordpress.com - 👌 IMPROVE: Updated feed to include images and link cards -...
+
+</description>
+<guid isPermaLink="false">e70d2f5a7680468f585cb050fb8ead69</guid>
+<pubDate>Mon, 03 Feb 2025 10:07:33 +0000</pubDate>
+</item>
+
+<item>
+<title>Gallery Modals v1.0.1 - changelog.robertdevore.com</title>
+<link>https://changelog.robertdevore.com/blog/gallery-modals-1-1-0/</link>
+<description>
+📦 NEW: Added WPCom Check composer package to restrict usage on wordpress.com - 📦 NEW: Added Spanish translation - 📦 NEW: Added French translation - [👌 IMPROVE: Updated to...
+
+</description>
+<guid isPermaLink="false">f8fb90bf7e57f53c39bebf152806f854</guid>
+<pubDate>Mon, 03 Feb 2025 10:07:33 +0000</pubDate>
+</item>
 
 <item>
 <title>Hello, Changelog - changelog.robertdevore.com</title>
@@ -14,7 +47,18 @@
 <description>Welcome to Changelog, a blog that will highlight the changes made to my various plugins, apps, scripts, etc. If you're reading this, you're too early. Come back later 😎...
 </description>
 <guid isPermaLink="false">ee98ed63ab2692adcab5233d4fab434f</guid>
-<pubDate>Mon, 03 Feb 2025 03:24:04 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 10:07:33 +0000</pubDate>
+</item>
+
+<item>
+<title>SEO for WordPress® v1.0.1 - changelog.robertdevore.com</title>
+<link>https://changelog.robertdevore.com/blog/seo-for-wordpress-1-1-1/</link>
+<description>
+🐛 BUG: Fixed metabox not saving the SEO image correctly - 📦 NEW: Added WPCom Check script to block usage on wordpress.com - 📦 NEW: Added French translation -...
+
+</description>
+<guid isPermaLink="false">53e4081334d8d490cf8b8bd52f3d5679</guid>
+<pubDate>Mon, 03 Feb 2025 10:07:33 +0000</pubDate>
 </item>
 
 </channel>
