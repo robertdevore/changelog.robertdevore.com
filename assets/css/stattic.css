@@ -267,3 +267,7 @@
     padding-bottom: 0;
     margin-bottom: 0;
 }
+
+.changelog-list ul {
+    margin-left: 1rem;
+}
