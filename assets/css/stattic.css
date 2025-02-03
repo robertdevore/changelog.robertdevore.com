@@ -257,3 +257,7 @@
 .changelog-list ul a {
     text-decoration: none;
 }
+
+.changelog-list {
+    border: 1px solid #44403C;
+}
