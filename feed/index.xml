@@ -5,7 +5,7 @@
 <link>https://changelog.robertdevore.com/</link>
 <description>Latest posts from changelog.robertdevore.com</description>
 <atom:link href="https://changelog.robertdevore.com/feed/index.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Mon, 03 Feb 2025 23:08:07 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Feb 2025 23:12:07 GMT</lastBuildDate>
 <language>en-us</language>
 
 <item>
@@ -16,16 +16,16 @@
 
 </description>
 <guid isPermaLink="false">612f85250efea806fb75fa470eb745ae</guid>
-<pubDate>Mon, 03 Feb 2025 18:08:07 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 18:12:07 +0000</pubDate>
 </item>
 
 <item>
 <title>Bluesky Feed for WordPress® v1.1.0 - changelog.robertdevore.com</title>
 <link>https://changelog.robertdevore.com/blog/bluesky-feed-for-wordpress-1-1-0/</link>
-<description>&amp;lt;div class=&amp;quot;p-8 mb-4 text-white bg-slate-950&amp;quot;&amp;gt; - [📦 NEW: Added French translation](https://github.com/robertdevore/bluesky-feed-for-wordpress/commit/f32c41f0099844633bfd5e3ea48d92f73cfbcb23) - [📦 NEW: Added plugin usage restrictions for websites hosted on wordpress.com](https://github.com/robertdevore/bluesky-feed-for-wordpress/commit/e3d259ee4505198fdd26349dffc46eb7a37d1a95) - [👌 IMPROVE: Updated feed to include...
+<description> - [📦 NEW: Added French translation](https://github.com/robertdevore/bluesky-feed-for-wordpress/commit/f32c41f0099844633bfd5e3ea48d92f73cfbcb23) - [📦 NEW: Added plugin usage restrictions for websites hosted on wordpress.com](https://github.com/robertdevore/bluesky-feed-for-wordpress/commit/e3d259ee4505198fdd26349dffc46eb7a37d1a95) - [👌 IMPROVE: Updated feed to include...
 </description>
 <guid isPermaLink="false">e70d2f5a7680468f585cb050fb8ead69</guid>
-<pubDate>Mon, 03 Feb 2025 18:08:07 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 18:12:07 +0000</pubDate>
 </item>
 
 <item>
@@ -36,7 +36,7 @@
 
 </description>
 <guid isPermaLink="false">f8fb90bf7e57f53c39bebf152806f854</guid>
-<pubDate>Mon, 03 Feb 2025 18:08:07 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 18:12:07 +0000</pubDate>
 </item>
 
 <item>
@@ -47,7 +47,7 @@
 
 </description>
 <guid isPermaLink="false">39d55a642386f96b7d918f9b8ccc67c2</guid>
-<pubDate>Mon, 03 Feb 2025 18:08:07 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 18:12:07 +0000</pubDate>
 </item>
 
 </channel>
