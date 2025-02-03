@@ -253,3 +253,7 @@
 .post-meta svg {
     display: inline-block;
 }
+
+.changelog-list ul a {
+    text-decoration: none;
+}
