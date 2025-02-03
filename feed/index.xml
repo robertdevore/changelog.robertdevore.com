@@ -5,7 +5,7 @@
 <link>https://changelog.robertdevore.com/</link>
 <description>Latest posts from changelog.robertdevore.com</description>
 <atom:link href="https://changelog.robertdevore.com/feed/index.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Mon, 03 Feb 2025 23:38:21 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Feb 2025 23:39:41 GMT</lastBuildDate>
 <language>en-us</language>
 
 <item>
@@ -14,7 +14,7 @@
 <description> - [🐛 BUG: Fixed GLOB_BRACE usage causing fatal errors on some systems](https://github.com/robertdevore/site-vitals-for-wordpress/commit/943260999d9eda886e2b07790d341b5477ce4c3f) - [👌 IMPROVE: Updated plugins page to include a...
 </description>
 <guid isPermaLink="false">612f85250efea806fb75fa470eb745ae</guid>
-<pubDate>Mon, 03 Feb 2025 18:38:21 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 18:39:41 +0000</pubDate>
 </item>
 
 <item>
@@ -23,7 +23,7 @@
 <description> - [📦 NEW: Added French translation](https://github.com/robertdevore/bluesky-feed-for-wordpress/commit/f32c41f0099844633bfd5e3ea48d92f73cfbcb23) - [📦 NEW: Added plugin usage restrictions for websites hosted on wordpress.com](https://github.com/robertdevore/bluesky-feed-for-wordpress/commit/e3d259ee4505198fdd26349dffc46eb7a37d1a95) - [👌 IMPROVE:...
 </description>
 <guid isPermaLink="false">e70d2f5a7680468f585cb050fb8ead69</guid>
-<pubDate>Mon, 03 Feb 2025 18:38:21 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 18:39:41 +0000</pubDate>
 </item>
 
 <item>
@@ -32,7 +32,7 @@
 <description> - [📦 NEW: Added WPCom Check composer package to restrict usage on wordpress.com](https://github.com/robertdevore/gallery-modals/commit/07d3de0534451026dffe81933456e981506202f1) - [📦 NEW: Added Spanish translation](https://github.com/robertdevore/gallery-modals/commit/c4f1fe5b407e6b27880ad7aa30aec6015a7f456a) - [📦...
 </description>
 <guid isPermaLink="false">f8fb90bf7e57f53c39bebf152806f854</guid>
-<pubDate>Mon, 03 Feb 2025 18:38:21 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 18:39:41 +0000</pubDate>
 </item>
 
 <item>
@@ -41,7 +41,7 @@
 <description> - [🐛 BUG: Fixed metabox not saving the SEO image correctly](https://github.com/robertdevore/seo-for-wordpress/commit/166f794da55e733ab618c1e9b8dedddadc5e01e5) - [📦 NEW: Added WPCom Check script to block usage...
 </description>
 <guid isPermaLink="false">39d55a642386f96b7d918f9b8ccc67c2</guid>
-<pubDate>Mon, 03 Feb 2025 18:38:21 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 18:39:41 +0000</pubDate>
 </item>
 
 </channel>

@@ -261,3 +261,8 @@
 .changelog-list {
     border: 1px solid #44403C;
 }
+
+.changelog-list ul,
+.changelog-list ul li:last-of-type {
+    padding-bottom: 0;
+}
