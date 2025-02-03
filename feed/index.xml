@@ -5,7 +5,7 @@
 <link>https://changelog.robertdevore.com/</link>
 <description>Latest posts from changelog.robertdevore.com</description>
 <atom:link href="https://changelog.robertdevore.com/feed/index.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Mon, 03 Feb 2025 15:14:59 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Feb 2025 21:56:42 GMT</lastBuildDate>
 <language>en-us</language>
 
 <item>
@@ -16,7 +16,7 @@
 
 </description>
 <guid isPermaLink="false">612f85250efea806fb75fa470eb745ae</guid>
-<pubDate>Mon, 03 Feb 2025 10:14:59 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 16:56:42 +0000</pubDate>
 </item>
 
 <item>
@@ -27,7 +27,7 @@
 
 </description>
 <guid isPermaLink="false">e70d2f5a7680468f585cb050fb8ead69</guid>
-<pubDate>Mon, 03 Feb 2025 10:14:59 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 16:56:42 +0000</pubDate>
 </item>
 
 <item>
@@ -38,18 +38,18 @@
 
 </description>
 <guid isPermaLink="false">f8fb90bf7e57f53c39bebf152806f854</guid>
-<pubDate>Mon, 03 Feb 2025 10:14:59 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 16:56:42 +0000</pubDate>
 </item>
 
 <item>
 <title>SEO for WordPress® v1.0.1 - changelog.robertdevore.com</title>
-<link>https://changelog.robertdevore.com/blog/seo-for-wordpress-1-1-1/</link>
+<link>https://changelog.robertdevore.com/blog/seo-for-wordpress-1-0-1/</link>
 <description>
 🐛 BUG: Fixed metabox not saving the SEO image correctly - 📦 NEW: Added WPCom Check script to block usage on wordpress.com - 📦 NEW: Added French translation -...
 
 </description>
-<guid isPermaLink="false">53e4081334d8d490cf8b8bd52f3d5679</guid>
-<pubDate>Mon, 03 Feb 2025 10:14:59 +0000</pubDate>
+<guid isPermaLink="false">39d55a642386f96b7d918f9b8ccc67c2</guid>
+<pubDate>Mon, 03 Feb 2025 16:56:42 +0000</pubDate>
 </item>
 
 </channel>
