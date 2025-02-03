@@ -262,6 +262,10 @@
     background: #222222;
 }
 
+.stattic-content .changelog-list ul li {
+    list-style-type: none;
+}
+
 .changelog-list ul,
 .changelog-list ul li:last-of-type {
     padding-bottom: 0;
