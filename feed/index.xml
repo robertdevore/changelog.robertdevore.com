@@ -5,7 +5,7 @@
 <link>https://changelog.robertdevore.com/</link>
 <description>Latest posts from changelog.robertdevore.com</description>
 <atom:link href="https://changelog.robertdevore.com/feed/index.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Mon, 03 Feb 2025 07:48:52 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Feb 2025 07:54:04 GMT</lastBuildDate>
 <language>en-us</language>
 
 <item>
@@ -14,7 +14,7 @@
 <description>Stattic is a flexible static site generator that lets you customize the way your site is built through a variety of command-line arguments. These arguments allow you to minify files,...
 </description>
 <guid isPermaLink="false">7bea697a04f652fbf8664ccb25f9b28a</guid>
-<pubDate>Mon, 03 Feb 2025 02:48:52 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 02:54:04 +0000</pubDate>
 </item>
 
 <item>
@@ -23,7 +23,7 @@
 <description>When control over content and website creation is increasingly centralized under unstable power, there's a growing need for tools that empower the community to publish independently. Stattic is an open...
 </description>
 <guid isPermaLink="false">5f1610e927dec2a213de0f26ba9e921a</guid>
-<pubDate>Mon, 03 Feb 2025 02:48:52 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 02:54:04 +0000</pubDate>
 </item>
 
 <item>
@@ -32,7 +32,7 @@
 <description>With Stattic, you can easily build a static site and deploy it to GitHub Pages for free hosting. This guide will walk you through how to create your site, export...
 </description>
 <guid isPermaLink="false">4f04d47397b5a6d5b19d048066e264b6</guid>
-<pubDate>Mon, 03 Feb 2025 02:48:52 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 02:54:04 +0000</pubDate>
 </item>
 
 <item>
@@ -41,7 +41,7 @@
 <description>1. title - Description: The title of your post or page. - Type: String - Default: 'Untitled' - Usage: title: &amp;quot;Your Post Title&amp;quot; ### 2. date - Description: The...
 </description>
 <guid isPermaLink="false">2ec4013556b696818ee9c0d271d0968e</guid>
-<pubDate>Mon, 03 Feb 2025 02:48:52 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 02:54:04 +0000</pubDate>
 </item>
 
 <item>
@@ -50,7 +50,7 @@
 <description>Welcome to Stattic, the lightweight, modern, static site generator that's decentralizing publishing and putting the power to create websites back into the hands of the community creating them. If you've...
 </description>
 <guid isPermaLink="false">0f2ecb242db0c868bfd5290cbce16125</guid>
-<pubDate>Mon, 03 Feb 2025 02:48:52 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 02:54:04 +0000</pubDate>
 </item>
 
 </channel>

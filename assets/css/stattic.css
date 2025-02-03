@@ -1,12 +1,12 @@
 :root {
-    --primary-color: #22C55E;
-    --secondary-color: #15803D;
-    --accent-color: #F59E0B;
-    --border-color: #1E293B;
-    --background-color: #020617;
-    --text-color: #E2E8F0;
-    --text-secondary: #475569;
-    --text-accent: #F59E0B;
+    --primary-color: #FACC15;
+    --secondary-color: #EAB308;
+    --accent-color: #A8A29E;
+    --border-color: #44403C;
+    --background-color: #0C0A09;
+    --text-color: #e7ede6;
+    --text-secondary: #A8A29E;
+    --text-accent: #A8A29E;
 }
 
 .skip-link {
