@@ -265,4 +265,5 @@
 .changelog-list ul,
 .changelog-list ul li:last-of-type {
     padding-bottom: 0;
+    margin-bottom: 0;
 }
