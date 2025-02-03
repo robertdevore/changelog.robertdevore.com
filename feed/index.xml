@@ -5,52 +5,16 @@
 <link>https://changelog.robertdevore.com/</link>
 <description>Latest posts from changelog.robertdevore.com</description>
 <atom:link href="https://changelog.robertdevore.com/feed/index.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Mon, 03 Feb 2025 07:54:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Feb 2025 08:01:20 GMT</lastBuildDate>
 <language>en-us</language>
 
 <item>
-<title>Customizing Stattic: Command-Line Arguments for Stattic - changelog.robertdevore.com</title>
-<link>https://changelog.robertdevore.com/blog/command-line-arguments-for-stattic/</link>
-<description>Stattic is a flexible static site generator that lets you customize the way your site is built through a variety of command-line arguments. These arguments allow you to minify files,...
+<title>Hello, Changelog - changelog.robertdevore.com</title>
+<link>https://changelog.robertdevore.com/blog/hello-changelog/</link>
+<description>Welcome to Changelog, a blog that will highlight the changes made to my various plugins, apps, scripts, etc. If you're reading this, you're too early. Come back later 😎...
 </description>
-<guid isPermaLink="false">7bea697a04f652fbf8664ccb25f9b28a</guid>
-<pubDate>Mon, 03 Feb 2025 02:54:04 +0000</pubDate>
-</item>
-
-<item>
-<title>Decentralizing Publishing with Stattic - changelog.robertdevore.com</title>
-<link>https://changelog.robertdevore.com/blog/decentralizing-publishing-with-stattic/</link>
-<description>When control over content and website creation is increasingly centralized under unstable power, there's a growing need for tools that empower the community to publish independently. Stattic is an open...
-</description>
-<guid isPermaLink="false">5f1610e927dec2a213de0f26ba9e921a</guid>
-<pubDate>Mon, 03 Feb 2025 02:54:04 +0000</pubDate>
-</item>
-
-<item>
-<title>How to Build and Deploy Your Website with Stattic and GitHub Pages - changelog.robertdevore.com</title>
-<link>https://changelog.robertdevore.com/blog/build-with-stattic-and-deploy-on-github-pages/</link>
-<description>With Stattic, you can easily build a static site and deploy it to GitHub Pages for free hosting. This guide will walk you through how to create your site, export...
-</description>
-<guid isPermaLink="false">4f04d47397b5a6d5b19d048066e264b6</guid>
-<pubDate>Mon, 03 Feb 2025 02:54:04 +0000</pubDate>
-</item>
-
-<item>
-<title>Customizing Stattic: Front Matter Fields - changelog.robertdevore.com</title>
-<link>https://changelog.robertdevore.com/blog/front-matter-fields-for-stattic/</link>
-<description>1. title - Description: The title of your post or page. - Type: String - Default: 'Untitled' - Usage: title: &amp;quot;Your Post Title&amp;quot; ### 2. date - Description: The...
-</description>
-<guid isPermaLink="false">2ec4013556b696818ee9c0d271d0968e</guid>
-<pubDate>Mon, 03 Feb 2025 02:54:04 +0000</pubDate>
-</item>
-
-<item>
-<title>Say Hello to Stattic - changelog.robertdevore.com</title>
-<link>https://changelog.robertdevore.com/blog/say-hello-to-stattic/</link>
-<description>Welcome to Stattic, the lightweight, modern, static site generator that's decentralizing publishing and putting the power to create websites back into the hands of the community creating them. If you've...
-</description>
-<guid isPermaLink="false">0f2ecb242db0c868bfd5290cbce16125</guid>
-<pubDate>Mon, 03 Feb 2025 02:54:04 +0000</pubDate>
+<guid isPermaLink="false">ee98ed63ab2692adcab5233d4fab434f</guid>
+<pubDate>Mon, 03 Feb 2025 03:01:20 +0000</pubDate>
 </item>
 
 </channel>
