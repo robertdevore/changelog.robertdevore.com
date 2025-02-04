@@ -66,7 +66,9 @@
         
         <div class="stattic-content mb-12">
             <div class="p-8 mt-2 mb-4 text-white bg-background border border-primary changelog-list">
-<p><a href="https://github.com/deviodigital/customer-loyalty-for-woocommerce/commit/44966ec6ceff814929a0d72b324a0450911b59ae">🐛 BUG: Fixed is_wc_endpoint_url causing a fatal error when not within a WooCommerce context</a></p>
+<ul>
+<li><a href="https://github.com/deviodigital/customer-loyalty-for-woocommerce/commit/44966ec6ceff814929a0d72b324a0450911b59ae">🐛 BUG: Fixed is_wc_endpoint_url causing a fatal error when not within a WooCommerce context</a></li>
+</ul>
 </div>
 <h2>Release notes</h2>
 <p>This update fixes a bug where the <code>is_wc_endpoint_url</code> function caused a fatal error when running outside of a WooCommerce context. By adding a <code>function_exists</code> check before changing <code>the_title</code>, this issue has been fixed.</p>
