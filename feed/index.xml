@@ -5,7 +5,7 @@
 <link>https://changelog.robertdevore.com/</link>
 <description>Latest posts from changelog.robertdevore.com</description>
 <atom:link href="https://changelog.robertdevore.com/feed/index.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Tue, 04 Feb 2025 20:21:23 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Feb 2025 21:48:33 GMT</lastBuildDate>
 <language>en-us</language>
 
 <item>
@@ -14,7 +14,7 @@
 <description> - [🐛 BUG: Fixed GLOB_BRACE usage causing fatal errors on some systems](https://github.com/robertdevore/site-vitals-for-wordpress/commit/943260999d9eda886e2b07790d341b5477ce4c3f) - [👌 IMPROVE: Updated plugins page to include a...
 </description>
 <guid isPermaLink="false">612f85250efea806fb75fa470eb745ae</guid>
-<pubDate>Tue, 04 Feb 2025 15:21:23 +0000</pubDate>
+<pubDate>Tue, 04 Feb 2025 16:48:33 +0000</pubDate>
 </item>
 
 <item>
@@ -23,7 +23,7 @@
 <description> - [📦 NEW: Added French translation](https://github.com/robertdevore/bluesky-feed-for-wordpress/commit/f32c41f0099844633bfd5e3ea48d92f73cfbcb23) - [📦 NEW: Added plugin usage restrictions for websites hosted on wordpress.com](https://github.com/robertdevore/bluesky-feed-for-wordpress/commit/e3d259ee4505198fdd26349dffc46eb7a37d1a95) - [👌 IMPROVE:...
 </description>
 <guid isPermaLink="false">e70d2f5a7680468f585cb050fb8ead69</guid>
-<pubDate>Tue, 04 Feb 2025 15:21:23 +0000</pubDate>
+<pubDate>Tue, 04 Feb 2025 16:48:33 +0000</pubDate>
 </item>
 
 <item>
@@ -32,7 +32,16 @@
 <description> - [📦 NEW: Added WPCom Check composer package to restrict usage on wordpress.com](https://github.com/robertdevore/gallery-modals/commit/07d3de0534451026dffe81933456e981506202f1) - [📦 NEW: Added Spanish translation](https://github.com/robertdevore/gallery-modals/commit/c4f1fe5b407e6b27880ad7aa30aec6015a7f456a) - [📦...
 </description>
 <guid isPermaLink="false">f8fb90bf7e57f53c39bebf152806f854</guid>
-<pubDate>Tue, 04 Feb 2025 15:21:23 +0000</pubDate>
+<pubDate>Tue, 04 Feb 2025 16:48:33 +0000</pubDate>
+</item>
+
+<item>
+<title>Delete Inactive Users - changelog.robertdevore.com</title>
+<link>https://changelog.robertdevore.com/blog/delete-inactive-users-1-0-1/</link>
+<description> * [📦 NEW: Added WPCom Check to restrict plugin usage on wordpress.com](https://github.com/robertdevore/delete-inactive-users/commit/dc32be7b5bc31fe6ccf1b3df5c2ce7d009c84ea9) * [📦 NEW: Added Spanish translation](https://github.com/robertdevore/delete-inactive-users/commit/93e9678abd523ab0bb6f9d1472c29ecbf844b2cb) * [📦 NEW:...
+</description>
+<guid isPermaLink="false">8700f6d094bb7c861292a696754c3bbb</guid>
+<pubDate>Tue, 04 Feb 2025 16:48:33 +0000</pubDate>
 </item>
 
 <item>
@@ -41,7 +50,7 @@
 <description> * [📦 NEW: Added Spanish translation](https://github.com/robertdevore/media-copyright-scanner/commit/9750549291f0ed4a2f139ba5cb6f03bbbc531b7c) * [📦 NEW: Added French translation](https://github.com/robertdevore/media-copyright-scanner/commit/e02f259246eb0b1a740f7d39e3d4934685095938) * [📦 NEW: Added WPCom Check composer package to...
 </description>
 <guid isPermaLink="false">0b5a1b3cff959595391767855957f3a7</guid>
-<pubDate>Tue, 04 Feb 2025 15:21:23 +0000</pubDate>
+<pubDate>Tue, 04 Feb 2025 16:48:33 +0000</pubDate>
 </item>
 
 <item>
@@ -50,7 +59,7 @@
 <description> * [📦 NEW: Added WPCom Check to restrict plugin usage on wordpress.com](https://github.com/robertdevore/custom-update-request-modifier/commit/62379ea4ace4ef9efb8b92025371437a1c1ad207) * [📦 NEW: Added Spanish translation](https://github.com/robertdevore/custom-update-request-modifier/commit/1e3acc82b8f35b04e86857bf8a550de021c82b07) * [📦 NEW:...
 </description>
 <guid isPermaLink="false">c7c587cd17c10f89cfba40e2c181973a</guid>
-<pubDate>Tue, 04 Feb 2025 15:21:23 +0000</pubDate>
+<pubDate>Tue, 04 Feb 2025 16:48:33 +0000</pubDate>
 </item>
 
 <item>
@@ -59,7 +68,7 @@
 <description> * [📦 NEW: Added plugin usage restrictions for websites hosted on wordpress.com](https://github.com/deviodigital/customer-loyalty-for-woocommerce/commit/3bbb277ce7d1eed782f50f7cfefefe193092ada8) * [👌 IMPROVE: Updated the WPCom Check composer script...
 </description>
 <guid isPermaLink="false">e956d55ce58e3b72ce7727520aa0dda1</guid>
-<pubDate>Tue, 04 Feb 2025 15:21:23 +0000</pubDate>
+<pubDate>Tue, 04 Feb 2025 16:48:33 +0000</pubDate>
 </item>
 
 <item>
@@ -68,7 +77,7 @@
 <description> - [🐛 BUG: Fixed metabox not saving the SEO image correctly](https://github.com/robertdevore/seo-for-wordpress/commit/166f794da55e733ab618c1e9b8dedddadc5e01e5) - [📦 NEW: Added WPCom Check script to block usage...
 </description>
 <guid isPermaLink="false">39d55a642386f96b7d918f9b8ccc67c2</guid>
-<pubDate>Tue, 04 Feb 2025 15:21:23 +0000</pubDate>
+<pubDate>Tue, 04 Feb 2025 16:48:33 +0000</pubDate>
 </item>
 
 <item>
@@ -77,7 +86,7 @@
 <description> * [📦 NEW: Added French translation](https://github.com/robertdevore/associated-taxonomies/commit/e4744ad1388419c49f449a15717c38720c60a55c) * [📦 NEW: Added Spanish translation](https://github.com/robertdevore/associated-taxonomies/commit/4fd7d65d0f0843de5aae9f0fdbbc1b0d00400a6a) * [📦 NEW: Added WPCom Check composer package to...
 </description>
 <guid isPermaLink="false">cf855e6309283e2a6ed0e491f89625a7</guid>
-<pubDate>Tue, 04 Feb 2025 15:21:23 +0000</pubDate>
+<pubDate>Tue, 04 Feb 2025 16:48:33 +0000</pubDate>
 </item>
 
 <item>
@@ -86,7 +95,7 @@
 <description> * [📦 NEW: Added WPCom Check composer package to restrict plugin usage on wordpress.com](https://github.com/robertdevore/media-file-versioning/commit/996559607ab338f411faee73ab509a23daadeee0) * [📦 NEW: Added French translation](https://github.com/robertdevore/media-file-versioning/commit/6b87d9167bece142f2aa15b2f7a7b489d8ff2b82) *...
 </description>
 <guid isPermaLink="false">08fcd0efb453cb3023580242ebf39ea8</guid>
-<pubDate>Tue, 04 Feb 2025 15:21:23 +0000</pubDate>
+<pubDate>Tue, 04 Feb 2025 16:48:33 +0000</pubDate>
 </item>
 
 <item>
@@ -95,7 +104,7 @@
 <description> * [📦 NEW: Added French translation](https://github.com/robertdevore/img-a11y/commit/cef2218e4ba0287c1b5b4565778d8d46eb1e4e2a) * [📦 NEW: Added Spanish translation](https://github.com/robertdevore/img-a11y/commit/8103ec448207eae41ad512adea36a57bcbbcbecb) * [👌 IMPROVE: Updated plugin restriction usage to use...
 </description>
 <guid isPermaLink="false">1a5bc2165a71d52bd76d5e6aa3f5affd</guid>
-<pubDate>Tue, 04 Feb 2025 15:21:23 +0000</pubDate>
+<pubDate>Tue, 04 Feb 2025 16:48:33 +0000</pubDate>
 </item>
 
 </channel>
