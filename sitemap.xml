@@ -3,7 +3,7 @@
     
     <url>
         <loc>https://changelog.robertdevore.com/</loc>
-        <lastmod>2025-02-03T20:24:02Z</lastmod>
+        <lastmod>2025-02-03T20:53:25Z</lastmod>
     </url>
     
     <url>
@@ -22,6 +22,11 @@
     </url>
     
     <url>
+        <loc>https://changelog.robertdevore.com/blog/media-copyright-scanner-1-0-1/</loc>
+        <lastmod>2025-02-03T00:00:00Z</lastmod>
+    </url>
+    
+    <url>
         <loc>https://changelog.robertdevore.com/blog/seo-for-wordpress-1-0-1/</loc>
         <lastmod>2025-02-03T00:00:00Z</lastmod>
     </url>
@@ -33,7 +38,7 @@
     
     <url>
         <loc>https://changelog.robertdevore.com/about/</loc>
-        <lastmod>2025-02-03T20:24:02Z</lastmod>
+        <lastmod>2025-02-03T20:53:25Z</lastmod>
     </url>
     
 </urlset>
