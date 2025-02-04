@@ -3,7 +3,7 @@
     
     <url>
         <loc>https://changelog.robertdevore.com/</loc>
-        <lastmod>2025-02-03T19:23:11Z</lastmod>
+        <lastmod>2025-02-03T20:24:02Z</lastmod>
     </url>
     
     <url>
@@ -27,8 +27,13 @@
     </url>
     
     <url>
+        <loc>https://changelog.robertdevore.com/blog/img-a11y-1-0-1/</loc>
+        <lastmod>2025-02-03T00:00:00Z</lastmod>
+    </url>
+    
+    <url>
         <loc>https://changelog.robertdevore.com/about/</loc>
-        <lastmod>2025-02-03T19:23:11Z</lastmod>
+        <lastmod>2025-02-03T20:24:02Z</lastmod>
     </url>
     
 </urlset>
