@@ -3,7 +3,7 @@
     
     <url>
         <loc>https://changelog.robertdevore.com/</loc>
-        <lastmod>2025-02-07T14:11:11Z</lastmod>
+        <lastmod>2025-02-07T22:47:26Z</lastmod>
     </url>
     
     <url>
@@ -72,6 +72,11 @@
     </url>
     
     <url>
+        <loc>https://changelog.robertdevore.com/blog/age-verification-for-wordpress-3-0-0/</loc>
+        <lastmod>2025-02-07T00:00:00Z</lastmod>
+    </url>
+    
+    <url>
         <loc>https://changelog.robertdevore.com/blog/associated-taxonomies-1-0-1/</loc>
         <lastmod>2025-02-04T00:00:00Z</lastmod>
     </url>
@@ -98,7 +103,7 @@
     
     <url>
         <loc>https://changelog.robertdevore.com/about/</loc>
-        <lastmod>2025-02-07T14:11:11Z</lastmod>
+        <lastmod>2025-02-07T22:47:26Z</lastmod>
     </url>
     
 </urlset>
