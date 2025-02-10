@@ -3,7 +3,7 @@
     
     <url>
         <loc>https://changelog.robertdevore.com/</loc>
-        <lastmod>2025-02-09T23:40:01Z</lastmod>
+        <lastmod>2025-02-10T16:37:09Z</lastmod>
     </url>
     
     <url>
@@ -49,6 +49,11 @@
     <url>
         <loc>https://changelog.robertdevore.com/blog/delete-inactive-users-1-0-1/</loc>
         <lastmod>2025-02-04T00:00:00Z</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://changelog.robertdevore.com/blog/block-ai-crawlers-1-1-1/</loc>
+        <lastmod>2025-02-10T00:00:00Z</lastmod>
     </url>
     
     <url>
@@ -118,7 +123,7 @@
     
     <url>
         <loc>https://changelog.robertdevore.com/about/</loc>
-        <lastmod>2025-02-09T23:40:01Z</lastmod>
+        <lastmod>2025-02-10T16:37:09Z</lastmod>
     </url>
     
 </urlset>
