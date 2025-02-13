@@ -3,7 +3,7 @@
     
     <url>
         <loc>https://changelog.robertdevore.com/</loc>
-        <lastmod>2025-02-12T13:10:42Z</lastmod>
+        <lastmod>2025-02-12T23:14:43Z</lastmod>
     </url>
     
     <url>
@@ -24,6 +24,11 @@
     <url>
         <loc>https://changelog.robertdevore.com/blog/phlush-permalinks-1-0-1/</loc>
         <lastmod>2025-02-10T00:00:00Z</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://changelog.robertdevore.com/blog/link-attributes-for-publishers-1-0-1/</loc>
+        <lastmod>2025-02-12T00:00:00Z</lastmod>
     </url>
     
     <url>
@@ -143,7 +148,7 @@
     
     <url>
         <loc>https://changelog.robertdevore.com/about/</loc>
-        <lastmod>2025-02-12T13:10:42Z</lastmod>
+        <lastmod>2025-02-12T23:14:43Z</lastmod>
     </url>
     
 </urlset>
