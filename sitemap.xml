@@ -3,7 +3,7 @@
     
     <url>
         <loc>https://changelog.robertdevore.com/</loc>
-        <lastmod>2025-02-21T20:28:51Z</lastmod>
+        <lastmod>2025-02-21T21:02:13Z</lastmod>
     </url>
     
     <url>
@@ -19,6 +19,11 @@
     <url>
         <loc>https://changelog.robertdevore.com/blog/gallery-modals-1-1-0/</loc>
         <lastmod>2025-02-03T00:00:00Z</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://changelog.robertdevore.com/blog/metadata-import-export-for-yoast-1-0-1/</loc>
+        <lastmod>2025-02-21T00:00:00Z</lastmod>
     </url>
     
     <url>
@@ -198,7 +203,7 @@
     
     <url>
         <loc>https://changelog.robertdevore.com/about/</loc>
-        <lastmod>2025-02-21T20:28:51Z</lastmod>
+        <lastmod>2025-02-21T21:02:13Z</lastmod>
     </url>
     
 </urlset>
