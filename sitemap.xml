@@ -3,7 +3,7 @@
     
     <url>
         <loc>https://changelog.robertdevore.com/</loc>
-        <lastmod>2025-02-21T19:15:39Z</lastmod>
+        <lastmod>2025-02-21T20:28:51Z</lastmod>
     </url>
     
     <url>
@@ -34,6 +34,11 @@
     <url>
         <loc>https://changelog.robertdevore.com/blog/content-restriction-for-wordpress-1-1-0/</loc>
         <lastmod>2025-02-13T00:00:00Z</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://changelog.robertdevore.com/blog/back-in-stock-notifications-for-woocommerce-1-0-2/</loc>
+        <lastmod>2025-02-21T00:00:00Z</lastmod>
     </url>
     
     <url>
@@ -193,7 +198,7 @@
     
     <url>
         <loc>https://changelog.robertdevore.com/about/</loc>
-        <lastmod>2025-02-21T19:15:39Z</lastmod>
+        <lastmod>2025-02-21T20:28:51Z</lastmod>
     </url>
     
 </urlset>
