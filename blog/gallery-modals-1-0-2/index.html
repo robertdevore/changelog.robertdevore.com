@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery Modals | Changelog</title>
+    <meta name="description" content="Changelog is a blog that highlights my various project updates.">
+    <meta name="keywords" content="changelog">
+    <meta name="author" content="Robert">
+    <link href="../../assets/css/tailwind.min.css" rel="stylesheet preload" as="style">
+    
+    <link href="../../assets/css/stattic.min.css" rel="stylesheet preload" as="style">
+    
+    <!-- Canonical URL -->
+    
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="Gallery Modals">
+    <meta property="og:description" content="Changelog is a blog that highlights my various project updates.">
+    <meta property="og:url" content="/">
+    <meta property="og:type" content="website">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Gallery Modals">
+    <meta name="twitter:description" content="Changelog is a blog that highlights my various project updates.">
+    
+    <!-- Alpine.js for interactive components -->
+    <script src="../../assets/js/alpine.min.js" defer></script>
+</head>
+<body class="bg-background bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-slate-950  to-black text-primary quicksand-300">
+
+<!-- Skip Links for Accessibility -->
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<a href="#navigation" class="skip-link">Skip to navigation</a>
+<a href="#footer" class="skip-link">Skip to footer</a>
+
+<header id="navigation">
+    <div class="container max-w-screen-xl m-auto py-6 px-4 flex justify-between items-center">
+        <!-- Home link using relative_path -->
+        <h2 class="text-3xl font-bold quicksand-700"><a href="../../index.html" class="text-links">CHANGELOG</a></h2>
+        <nav>
+            <ul class="flex space-x-6">
+                
+                    
+                        <li>
+                            <!-- Internal links using relative_path and permalink -->
+                            <a href="../../about/index.html" class="text-primary hover:underline quicksand-700">About</a>
+                        </li>
+                    
+                
+            </ul>
+        </nav>
+    </div>
+</header>
+
+
+<main class="container max-w-2xl m-auto py-10 px-4" id="main-content">
+    <article class="prose dark:prose-dark max-w-none">
+        
+        <h1 class="text-6xl font-bold mb-4 text-links quicksand-700">Gallery Modals</h1>
+        <p class="text-2md post-meta mb-4 pb-2 text-accent italic">
+            <span class="date">Feb 25, 2025</span> &middot; 
+            <span class="quicksand-700">v1.0.2</span> &middot; 
+            <a href="https://github.com/robertdevore/gallery-modals/releases/download/1.0.2/gallery-modals.zip" target="_blank" class="text-links text-accent hover:underline"><svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-download"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" /><path d="M7 11l5 5l5 -5" /><path d="M12 4l0 12" /></svg></a> &middot; 
+            <a href="https://github.com/robertdevore/gallery-modals" target="_blank" class="text-links text-accent hover:underline"><svg xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-brand-github"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" /></svg></a></p>
+        
+        <div class="stattic-content mb-12">
+            <div class="p-8 mt-2 mb-4 text-white bg-background border border-primary changelog-list">
+<ul>
+<li><a href="https://github.com/robertdevore/gallery-modals/commit/9fec994f96bc60e0e97138b1112ecda03475667b">📦 NEW: Added Italian translation</a></li>
+<li><a href="https://github.com/robertdevore/gallery-modals/commit/06782c9ff39aae1c45f2cca8488bb340bc6c122e">📦 NEW: Added Afrikaans translation</a></li>
+<li><a href="https://github.com/robertdevore/gallery-modals/commit/802d6e0e224f293444ec67665699a3131aba7747">📦 NEW: Added Dutch translation</a></li>
+<li><a href="https://github.com/robertdevore/gallery-modals/commit/5ca90a9b052ac370f7b16a6e6aaec04759e05497">👌 IMPROVE: Updated composer autoloader check to use class_exists instead of function_exists</a></li>
+<li><a href="https://github.com/robertdevore/gallery-modals/commit/1166dcb6343aa3ccaf86e2d11ee1711064bf4b30">👌 IMPROVE: Updated modal HTML to only output when a gallery is on the page</a></li>
+<li><a href="https://github.com/robertdevore/gallery-modals/commit/73ed6c9b01a10d96afde4692fc816c559e49f6e0">👌 IMPROVE: Updated gallery output to prepend an XML encoding declaration instead of mbstring</a></li>
+<li><a href="https://github.com/robertdevore/gallery-modals/commit/d8a55998ae79d50694d165e3090c04da03035243">👌 IMPROVE: Updated modal buttons to sit side-by-side instead of full width stacked</a></li>
+<li><a href="https://github.com/robertdevore/gallery-modals/commit/1458428c6945373c8178d881215ce38c203bc310">👌 IMPROVE: Updated text strings for localization</a></li>
+</ul>
+</div>
+<h2>Release notes</h2>
+<p>This update for <strong>Gallery Modals</strong> introduces <strong>new translations, code optimizations, and UI improvements</strong> to enhance functionality and accessibility.</p>
+<h3>🚀 New Features</h3>
+<ul>
+<li><strong>Expanded Translations:</strong> The plugin now supports <strong>Italian</strong> 🇮🇹, <strong>Afrikaans</strong> 🇿🇦, and <strong>Dutch</strong> 🇳🇱, making it more accessible to a global audience.</li>
+</ul>
+<h3>🔧 Improvements</h3>
+<ul>
+<li><strong>Code Optimizations:</strong><ul>
+<li>Updated <strong>composer autoloader check</strong> to use <code>class_exists()</code> instead of <code>function_exists()</code> for better reliability.</li>
+<li>Improved <strong>gallery output handling</strong> by replacing <code>mbstring</code> with an <strong>XML encoding declaration</strong>, enhancing compatibility.</li>
+</ul>
+</li>
+<li><strong>UI &amp; Performance Enhancements:</strong><ul>
+<li>Updated <strong>modal HTML</strong> to only load when a <strong>gallery is present on the page</strong>, reducing unnecessary markup.</li>
+<li>Improved <strong>modal button layout</strong>, displaying buttons <strong>side-by-side</strong> instead of <strong>stacked</strong>, enhancing user experience.</li>
+</ul>
+</li>
+<li><strong>Localization &amp; Translation Support:</strong><ul>
+<li>Updated text strings for <strong>better translation consistency</strong>.</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+    </article>
+</main>
+
+
+<footer class="bg-background border-t border-primary mt-10 py-6" id="footer">
+    <div class="container max-w-screen-xl m-auto px-4 text-center">
+        <p>Get <a href="https://stattic.site/" target="_blank" class="text-links font-bold" aria-label="Stattic - opens in a new tab">Stattic</a></p>
+    </div>
+</footer>
+
+</body>
+</html>
